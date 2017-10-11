@@ -85,3 +85,18 @@ CSS can select HTML elements by using an element's tag name. A tag name is the w
 For example, in HTML, the tag for a paragraph element is <p>. The CSS syntax for selecting <p> elements is:
 Class Name:
 CSS is not limited to selecting elements by tag name. HTML elements can have more than just a tag name; they can also have attributes. One common attribute is the class attribute. It's also possible to select an element by its class attribute.
+Multiple Classes
+We can use CSS to select an HTML element's class attribute by name.
+
+So far, we've selected elements using only one class name per element. If every HTML element had a single class, all the style information for each element would require a new class.
+
+Luckily, it's possible to add more than one class name to an HTML element's class attribute.
+
+For instance, perhaps there's a heading element that needs to be green and bold. You could write two CSS rules like so:
+
+ID Name
+If an HTML element needs to be styled uniquely (no matter what classes are applied to the element), we can add an ID to the element. To add an ID to an element, the element needs an id attribute
+Classes and IDs
+CSS can select HTML elements by their tag, class, and ID. CSS classes and IDs have different purposes, which can affect which one you use to style HTML elements.
+Specificity
+Specificity is the order by which the browser decides which CSS styles will be displayed. A best practice in CSS is to style elements while using the lowest degree of specificity, so that if an element needs a new style, it is easy to override.
