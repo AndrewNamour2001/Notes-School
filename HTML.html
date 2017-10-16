@@ -100,3 +100,28 @@ Classes and IDs
 CSS can select HTML elements by their tag, class, and ID. CSS classes and IDs have different purposes, which can affect which one you use to style HTML elements.
 Specificity
 Specificity is the order by which the browser decides which CSS styles will be displayed. A best practice in CSS is to style elements while using the lowest degree of specificity, so that if an element needs a new style, it is easy to override.
+Chaining Selectors
+When writing CSS rules, it's possible to require an HTML element to have two or more CSS selectors at the same time.
+
+This is done by combining multiple selectors, which we will refer to as chaining.
+Nested Elements
+In addition to chaining selectors to select elements, CSS also supports selecting elements that are nested within other HTML elements. For instance, consider the following HTML:
+Chaining and Specificity
+In the last exercise, instead of selecting all h5 elements, you selected only the h5 elements nested inside the .description elements. This CSS selector was more specific than writing only h5. Adding more than one tag, class, or ID to a CSS selector increases the specificity of the CSS selector.
+Important
+There is one thing that is even more specific than IDs: !important. !important can be applied to specific attributes instead of full rules. It will override any style no matter how specific it is. As a result, it should almost never be used. Once !important is used, it is very hard to override.
+Multiple Selectors
+In order to make CSS more concise, it's possible to add CSS styles to multiple CSS selectors all at once. This prevents writing repetitive code.
+Review CSS Selectors
+Throughout this lesson, you learned how to select HTML elements with CSS and apply styles to them. Let's review what you learned:
+
+CSS can change the look of HTML elements. In order to do this, CSS must select HTML elements, then apply styles to them.
+CSS can select HTML elements by tag, class, or ID.
+Multiple CSS classes can be applied to one HTML element.
+Classes can be reusable, while IDs can only be used once.
+IDs are more specific than classes, and classes are more specific than tags. That means IDs will override any styles from a class, and classes will override any styles from a tag selector.
+Multiple selectors can be chained together to select an element. This raises the specificity, but can be necessary.
+Nested elements can be selected by separating selectors with a space.
+The !important flag will override any style, however it should almost never be used, as it is extremely difficult to override.
+Multiple unrelated selectors can receive the same styles by separating the selector names with commas.
+Great work this lesson. With this knowledge, you'll be able to use CSS to change the look and feel of websites to make them look great.
