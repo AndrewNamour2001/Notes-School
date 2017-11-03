@@ -1,0 +1,139 @@
+<!DOCTYPE HTML> 
+<html>
+	<head>
+		Schedule 2017/2018 
+	</head>
+  <body>
+		
+											
+	 <table border="1">
+			<thead>
+			 <tr>
+			
+				<th></th>
+			  <th>Day 1</th>
+			  <th>Day 2</th>
+			  <th>Day 3</th>
+			  <th>Day 4</th>
+			  <th>Day 5</th>
+			  <th>Day 6</th>
+			  <th>Day 7</th>
+			  <th>Day 8</th>
+				<th></th>
+			  <th>Day A1</th>
+			  <th>Day A3</th>
+			  <th>Day A6</th>
+			 </tr>
+			 
+<tr>
+		<div class="period_1">
+		<td>Period 1<br /><br /></td>
+		<td> Eng<br /> Mr. Eng<br />Class: 889</td>
+		<td> Math<br />Mr. Math <br /> Class:123</td>
+		<td> Fr<br /> Mr. Fr<br /> Class:26</td>
+		<td> Rel<br /> Mr. Rel<br /> Class:23</td>
+		<td> Math<br /> Mr. Math<br /> Class:67</td>
+		<td> CompProg<br />Mr. Degano<br /> Class:231</td>
+		<td> Fr<br /> Mr. Fr <br /> Class:123</td>
+		<td> Rel<br /> Mr. Rel<br /> Class:123</td>
+		<td><br /><br /></td>
+		<td> Sci<br /> Mr. Sci<br /> Class:231</td>
+		<td> Eng<br /> Mr. Eng<br /> Class:123</td>
+		<td> Eng<br /> Mr. Eng<br /> Class:123</td>
+		</div>
+	
+	</tr>
+	<tr>
+		<div class="period_2">
+		<td>Period 1<br /><br /></td>
+		<td> Eng<br /> Mr. Eng<br />Class: 889</td>
+		<td> Fr<br />Mr. Math <br /> Class:123</td>
+		<td> Fr<br /> Mr. Fr<br /> Class:26</td>
+		<td> Math<br /> Mr. Rel<br /> Class:23</td>
+		<td> Pe<br /> Mr. Math<br /> Class:67</td>
+		<td> CompProg<br />Mr. Degano<br /> Class:231</td>
+		<td> Fr<br /> Mr. Fr <br /> Class:123</td>
+		<td> Rel<br /> Mr. Rel<br /> Class:123</td>
+		<td><br /><br /></td>
+		<td> Sci<br /> Mr. Sci<br /> Class:231</td>
+		<td> Fr<br /> Mr. Eng<br /> Class:123</td>
+		<td> Eng<br /> Mr. Eng<br /> Class:123</td>
+		</div>
+	
+	</tr>
+	<tr>
+		<div class="period_3">
+		<td>Period 1<br /><br /></td>
+		<td> Eng<br /> Mr. Eng<br />Class: 889</td>
+		<td> Math<br />Mr. Math <br /> Class:123</td>
+		<td> Fr<br /> Mr. Fr<br /> Class:26</td>
+		<td> Rel<br /> Mr. Rel<br /> Class:23</td>
+		<td> Math<br /> Mr. Math<br /> Class:67</td>
+		<td> CompProg<br />Mr. Degano<br /> Class:231</td>
+		<td> Fr<br /> Mr. Fr <br /> Class:123</td>
+		<td> Rel<br /> Mr. Rel<br /> Class:123</td>
+		<td><br /><br /></td>
+		<td> Sci<br /> Mr. Sci<br /> Class:231</td>
+		<td> Eng<br /> Mr. Eng<br /> Class:123</td>
+		<td> Eng<br /> Mr. Eng<br /> Class:123</td>
+		</div>
+	
+	</tr>
+	<tr>
+		<div class="period_4">
+		<td>Period 1<br /><br /></td>
+		<td> Eng<br /> Mr. Eng<br />Class: 889</td>
+		<td> Math<br />Mr. Math <br /> Class:123</td>
+		<td> Fr<br /> Mr. Fr<br /> Class:26</td>
+		<td> Rel<br /> Mr. Rel<br /> Class:23</td>
+		<td> Math<br /> Mr. Math<br /> Class:67</td>
+		<td> CompProg<br />Mr. Degano<br /> Class:231</td>
+		<td> Fr<br /> Mr. Fr <br /> Class:123</td>
+		<td> Rel<br /> Mr. Rel<br /> Class:123</td>
+		<td><br /><br /></td>
+		<td> Sci<br /> Mr. Sci<br /> Class:231</td>
+		<td> Eng<br /> Mr. Eng<br /> Class:123</td>
+		<td> Eng<br /> Mr. Eng<br /> Class:123</td>
+		</div>
+	
+	</tr>
+	<tr>
+		<div class="period_5">
+		<td>Period 1<br /><br /></td>
+		<td> Eng<br /> Mr. Eng<br />Class: 889</td>
+		<td> Math<br />Mr. Math <br /> Class:123</td>
+		<td> Fr<br /> Mr. Fr<br /> Class:26</td>
+		<td> Rel<br /> Mr. Rel<br /> Class:23</td>
+		<td> Math<br /> Mr. Math<br /> Class:67</td>
+		<td> CompProg<br />Mr. Degano<br /> Class:231</td>
+		<td> Fr<br /> Mr. Fr <br /> Class:123</td>
+		<td> Rel<br /> Mr. Rel<br /> Class:123</td>
+		<td><br /><br /></td>
+		<td> Sci<br /> Mr. Sci<br /> Class:231</td>
+		<td> Eng<br /> Mr. Eng<br /> Class:123</td>
+		<td> Eng<br /> Mr. Eng<br /> Class:123</td>
+		</div>
+	
+	</tr>
+	<tr>
+		<div class="period_6">
+		<td>Period 1<br /><br /></td>
+		<td> Eng<br /> Mr. Eng<br />Class: 889</td>
+		<td> Math<br />Mr. Math <br /> Class:123</td>
+		<td> Fr<br /> Mr. Fr<br /> Class:26</td>
+		<td> Rel<br /> Mr. Rel<br /> Class:23</td>
+		<td> Math<br /> Mr. Math<br /> Class:67</td>
+		<td> CompProg<br />Mr. Degano<br /> Class:231</td>
+		<td> Fr<br /> Mr. Fr <br /> Class:123</td>
+		<td> Rel<br /> Mr. Rel<br /> Class:123</td>
+		<td><br /><br /></td>
+		<td> Sci<br /> Mr. Sci<br /> Class:231</td>
+		<td> Eng<br /> Mr. Eng<br /> Class:123</td>
+		<td> Eng<br /> Mr. Eng<br /> Class:123</td>
+		</div>
+	
+	</tr>
+   </table>
+
+   </body>
+  </html>
