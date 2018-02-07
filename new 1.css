@@ -1,0 +1,32 @@
+.title	{
+	font-size: 29px;
+	padding-bottom: 20px;
+}
+
+body	{
+	text-align: center;
+		padding: 100px;
+		padding-top: 30px;
+}
+
+th	{
+	border: 2px solid black;
+}
+
+td	{
+	border: 2px solid black;
+	padding: 10px;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+td:hover {
+	background-color: lightblue;
+}
+
+.search	{
+	text-align: left;
+	padding-bottom: 20px;
+} 
