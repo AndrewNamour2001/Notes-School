@@ -147,3 +147,58 @@
 
 </body> 
 	  
+<script>
+			function Hi() {
+				var className = document.getElementById("selectedClass").value;
+					switch (className) {
+						case 'Rel':
+							selectedClass = "Rel";
+						break;
+			
+						case 'Gym':
+							selectedClass = "Gym";
+						break;
+			
+						case 'Eng':
+							selectedClass = "Eng";
+						break;
+			
+						case 'Sci':
+							selectedClass = "Sci";
+						break;
+			
+						case 'Mat':
+							selectedClass = "Mat";
+						break;
+			
+						case 'Arc':
+							selectedClass = "Arc";
+						break;
+			
+						case 'His':
+							selectedClass = "His";
+						break;
+			
+						case 'Com':
+							selectedClass = "Com";
+						break;
+			
+						case 'Spc':
+							selectedClass = "Spc";
+						break;
+						
+						case "Adv"
+		                    selectedClass = "Adv"
+						break;
+						
+						default:
+							console.log('Invalid term');
+						break;
+					}
+				var hiHi = document.getElementsByClassName(selectedClass);
+					for (i=0 ; i<hiHi.length ; i++) {
+						hiHi[i].style.backgroundColor = "blue" ;
+					}
+			}
+	  </script>
+
