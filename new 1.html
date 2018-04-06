@@ -3,10 +3,8 @@
 	<head>
 		<div class="title"> Schedule 2017/2018 </div>
 		<div class="search">
-		
-
-	<input id="search" type="text" name="search" placeholder="Search..">
-	<input type="Submit" onclick='selectedClass()'>
+	<input type="text" placeholder="Search..">
+	<input type="Submit" onclick="Hi">
 	</div>
 		 <link rel="stylesheet" type="text/css" href="new 1.css">
 	</head> 
@@ -149,7 +147,7 @@
 	  
 <script>
 			function Hi() {
-				var Hi = document.getElementById("search").value;
+				var Hi = document.getElementById("selectedClass").value;
 					switch (Hi) {
 						case 'Rel':
 							selectedClass = "Rel";
@@ -182,7 +180,7 @@
 						case 'Com':
 							selectedClass = "Com";
 						break;
-			
+			   
 						case 'Spc':
 							selectedClass = "Spc";
 						break;
